@@ -1,4 +1,4 @@
-# FoodFrenzy
+# FoodFrenzy (Swapnil Patel)
 FoodFrenzy is a comprehensive system designed for managing customers, inventory, and orders. It offers secure authentication, role-based access control, and database integration using MySQL. Built with Spring Boot and Thymeleaf, the application provides a seamless experience for admin and staff members.
 
 ![f1](https://github.com/user-attachments/assets/7f191ae8-747a-4539-a55b-d51c207a44de)
@@ -20,16 +20,16 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 - **Backend**: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
 - **Frontend**: Thymeleaf, HTML, CSS, JavaScript
 - **Database**: MySQL
-- **IDE**: Eclipse, Spring Tool Suite (STS)
+- **IDE**: VsCode, Intellij Idea
 
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
 
-- Java 8
+- Minimum Java 8
 - MySQL
 - Maven
-- Eclipse or Spring Tool Suite (STS)
+- Vs Code
 
 ## Setup and Installation
 
